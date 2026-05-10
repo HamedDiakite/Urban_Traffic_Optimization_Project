@@ -211,6 +211,13 @@ Simulates adding a direct highway between origin and destination. Measures cost 
 
 ---
 
+## 🙏 Acknowledgments
+
+- **Dr. Bhuiyan** - Course instructor and project guidance
+- **West Chester University** - Computer Science Department
+- **Python Community** - Excellent documentation and resources
+- **Tkinter Documentation** - GUI framework reference
+
 ## License
 
 Educational use. Open for modification and extension.
