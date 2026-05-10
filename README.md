@@ -222,6 +222,8 @@ Simulates adding a direct highway between origin and destination. Measures cost 
 
 Educational use. Open for modification and extension.
 
+---
+
 <div align="center">
 
 **⭐ If you find this project useful, please consider giving it a star! ⭐**
