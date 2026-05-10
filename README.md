@@ -220,7 +220,7 @@ Simulates adding a direct highway between origin and destination. Measures cost 
 
 ## License
 
-Educational use. Open for modification and extension.
+Educational use. Open for modification and extension. For additional information, please referred to MIT license.
 
 ---
 
