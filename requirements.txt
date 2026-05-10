@@ -1,0 +1,15 @@
+# Urban Traffic Optimizer — Dependencies
+# ======================================
+# This project uses only the Python standard library.
+# No external packages are required.
+#
+# Core modules used:
+#   - tkinter   (GUI — ships with Python on most platforms)
+#   - heapq     (priority queue for Dijkstra's algorithm)
+#   - math      (geometric calculations)
+#
+# On macOS, tkinter is included with the official Python installer
+# from python.org.  If you installed Python via Homebrew you may
+# need to run:  brew install python-tk
+#
+# On Ubuntu/Debian:  sudo apt-get install python3-tk
